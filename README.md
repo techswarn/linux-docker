@@ -116,7 +116,7 @@ sudo usermod -aG docker $USER
 # what groups user is in
 groups chris
 cat /etc/group
-# Excersize on permission and ownership: https://www.freecodecamp.org/news/linux-chmod-chown-change-file-permissions/
+# Excercise on permission and ownership: https://www.freecodecamp.org/news/linux-chmod-chown-change-file-permissions/
 
 ```
 
